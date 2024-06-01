@@ -18,7 +18,7 @@ Best case: Aradığımız sayının dizinin en başında olması.
 [2, 6, 16, 22, 27, 18]
 [2, 6, 16, 18, 22, 27]
 
-O(n)
+O(n^2)
 
 Average case
 
