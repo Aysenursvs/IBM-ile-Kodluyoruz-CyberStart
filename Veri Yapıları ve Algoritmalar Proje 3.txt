@@ -1,0 +1,12 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+- root = 7
+- 5, 7'den küçük, sola.
+- 1, 7'den küçük, sola. 5'ten küçük sola.
+- 8, 7'den büyük, sağa.
+- 3, 7'den küçük, sola. 5'ten küçük, sola. 1'den büyük, sağa.
+- 6, 7'den küçük, sola. 5'ten büyük, sağa.
+- 0, 7'den küçük, sola. 5'ten küçük, sola. 1'den küçük, sola.
+- 9, 7'den büyük, sağa. 8'den büyük, sağa.
+- 4, 7'den küçük, sola. 5'ten küçük, sola. 1'den büyük, sağa. 3'ten büyük, sağa.
+- 2, 7'den küçük, sola. 5'ten küçük, sola. 1'den büyük, sağa. 3'ten küçük, sola.
